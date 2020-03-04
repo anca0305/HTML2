@@ -1,0 +1,19 @@
+body {
+    color: tomato;
+}
+
+.like {
+    color: royalblue;
+}
+
+.it {
+    color: violet;
+}
+
+.dislike {
+    color: salmon;
+}
+
+#my_text {
+    color: springgreen;
+}
