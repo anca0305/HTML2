@@ -1,0 +1,19 @@
+td, th {
+    border: 1px solid gray;
+    text-align: left;
+    padding: 3px;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+
+th {
+    background-color: lightskyblue;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgray;
+}
